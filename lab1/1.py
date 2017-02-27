@@ -13,4 +13,4 @@ else:
         else:
             raise ValueError
     except ValueError:
-        print('Некоректное число')
+        print('Некорректный формат!')
