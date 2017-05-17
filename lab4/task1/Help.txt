@@ -1,0 +1,2 @@
+call example: 1.py D:/Учеба/Python/git-lab1/Python-lab4/task1/Test_Music/ -d -g 4
+todo: num track and ganres
